@@ -1,4 +1,4 @@
-/* General Reset */
+
 * {
     margin: 0;
     padding: 0;
@@ -59,7 +59,7 @@
     cursor: pointer;
   }
   
-  /* Images Section */
+  /* Images */
   .images {
     display: flex;
     justify-content: space-around;
@@ -71,7 +71,7 @@
     border-radius: 10px;
   }
   
-  /* Wellbeing Section */
+
   .wellbeing {
     display: flex;
     flex-wrap: wrap;
@@ -124,7 +124,7 @@
     line-height: 1.4;
   }
   
-  /* Il·lustració a la dreta */
+
   .illustration {
     flex: 1;
     text-align: right;
@@ -136,7 +136,7 @@
     height: auto;
   }
   
-  /* Fresh Organic Produce Section */
+
   .fresh-produce {
     display: flex;
     align-items: center;
